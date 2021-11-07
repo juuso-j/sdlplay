@@ -1,0 +1,2 @@
+C:\Users\xreg\source\repos\SDLPlay\x64\Debug\SDLPlay.exe
+C:\Users\xreg\source\repos\SDLPlay\x64\Debug\SDLPlay.pdb
